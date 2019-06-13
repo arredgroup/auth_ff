@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "461750730927",
+    "firebase_url": "https://authpost-8f8cd.firebaseio.com",
+    "project_id": "authpost-8f8cd",
+    "storage_bucket": "authpost-8f8cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461750730927:android:36b07c9514280178",
+        "android_client_info": {
+          "package_name": "com.arredgroup.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461750730927-vidsc6cjh2gm9jsf8ad03tk1q37i5vtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3-1nGzwc45T1fkpF_s2N1lm5fMYZtoi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461750730927-vidsc6cjh2gm9jsf8ad03tk1q37i5vtd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "461750730927-aja9pn63sa2v6f8b2h9cd8n2e90onh64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arredgroup.auth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
